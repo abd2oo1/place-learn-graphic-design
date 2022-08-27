@@ -1,2 +1,2 @@
 # place-learn-graphic-design
-this project with the bootstrap and html css 
+this project with the bootstrap , html  and css 
